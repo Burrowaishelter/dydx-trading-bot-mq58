@@ -1,4 +1,4 @@
-# 
+# new dydx trading bot Module | transaction-batching + token-swapping is the best dydx trading bot, featuring transaction-batching and token-swapping. Smart, fast, and optimized for
 
 
 
